@@ -38,10 +38,8 @@ const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
 const textArray = [
-    "Tableau Expert", 
-    "Data Analyst", 
-    "Python Developer", 
-    "Data Engineer"
+    "Tableau Developer", 
+    "Data Analyst"
 ];
 const typingDelay = 100;
 const erasingDelay = 80;
