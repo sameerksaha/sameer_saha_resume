@@ -1,0 +1,107 @@
+Sameer Kumar Saha  
++91 7978669435  | sameer.k.saha@gmail.com  | linkedin.com/in/sameerksaha/  
+SUMMARY  
+ 
+5+ Years of experience in utilizing Tableau  to create visually appealing and informative reports and 
+dashboards. Strong ability to analyze and interpret complex data sets and effectively communicate insights 
+to stakeholders. Proven track record of utilizing data -driven decision -making to drive busi ness success. 
+Strong technical skills and ability to work collaboratively with cross -functional teams.  
+TECHNICAL  SKILLS  
+Programming  Languages  Python  
+Technologies  and Frameworks  Django, Flask  
+Development  Tools  Tableau Desktop, Tableau Prep, Tableau Server  
+Methodologies  Agile  
+DB Languages  MySQL , Amazon Athena  
+Version  Control  GitHub  
+WORK EXPERIENCE  
+Data Analyst  | PayU , Bangalore                                                                                                     June 2024  – Current  
+ Designed and  maintained Tableau dashboards focused on business -critical metrics such as 
+loan repayment trends, delinquency patterns, and NACH registration status.  
+ Developed a comprehensive Sales MIS dashboard consolidating daily performance data from various farming 
+and DSA partners, enabling leadership to track achieved vs. target metrics across states and cities.  
+ Migrated authentication for Django -based internal tools from Google SAML to Microsoft SAML for secure 
+Tableau dashboard embedding.  
+ Collaborated with cross -functional teams (Risk, Ops, and Finance) to define KPIs, clean datasets, and ensure 
+end-to-end data accuracy and visualization.  
+Projects : 
+Repayment Dashboard  
+ Built a dynamic Tableau dashboard that tracks the entire repayment lifecycle — from active loans and EMI 
+due amounts to delinquency categorization.  
+ Added multi -month visibility into NACH registration funnel: eligibility, registration, success, rejection, and 
+activation rates.  
+ Enabled daily refresh and drill -down features for business and risk teams.  
+Sales MIS Dashboard  
+ Created a Tableau dashboard for daily MIS reporting, showing Credit Assessed, OPS Submission, 
+Disbursals, and Value of Approvals across multiple business lines like PS Farming, LP Cash Loan, etc.  
+ Integrated Tableau filter and parameter o ptions for Employment Type, Channel, State, City, and Partner to 
+enable granular performance analysis.  
+Authentication System Migration & Secure Tableau Embedding  
+ Migrated Django -based authentication from Google SAML to Microsoft SAML to align with updated 
+enterprise security standards and improve SSO integration.  
+ Ensured seamless Tableau dashboard embedding post -migration, maintaining secure user access and 
+consistent session handling across services.  
+ Coordinated with InfoSec and Infrastructure teams to imp lement and test the new SAML configuration.  
+ Tech Used: Python, Django Framework  
+ 
+ 
+ 
+ 
+Data Engineer  | CSM Technologies, Bhubaneswar                                        February  2021 – June 2024  
+ Worked extensively with Tableau Desktop , including creating advanced chart types, blending data from 
+multiple sources, and creating calculated fields  for advanced analysis.  
+ Experience with Tableau Server  and Tableau Online , including managing user access and permissions, 
+managing data sources, and implementing security protocols to protect sensitive data.  
+ Experience in creating complex SQL queries for data extraction and analysis from data warehouse systems, 
+along with optimizing query performance for faster reporting in Tableau.  
+ Strong understa nding of data visualization best practices and design principles, and have experience creating 
+visually appealing and informative dashboards and reports.  
+Projects : 
+GIS Analysis of Paddy (Govt. of Odisha, FSCW Dept)  
+ The primary objective of this project is to detect individuals in Odisha who receive government Minimum 
+Support Price (MSP) benefits but are not actively engaged in farming. We have achieved this by analyzing 
+data on farmers, land, and Geographic Information System (GIS).  
+ To facilitate this objec tive, I have developed five dashboards and six reports for each agricultural season, 
+specifically for Rabi and Kharif.  
+ These dashboards are designed to present complex calculations using calculated fields and parameters. 
+They also allow users to drill down  into data up to four levels, all within the Tableau platform.  
+ We have implemented Pagination Tableau Reports using Custom SQL Queries  and the parameter feature. 
+In doing so, we utilized various SQL techniques such as  joins, partitions, window functions, a ggregation 
+functions, and subqueries to create these reports.  The reports themselves offer tabular views with 
+thousands of rows and include pagination functionality seamlessly integrated into Tableau.  
+ Additionally, we have harnessed plot -level GIS analysis  to achieve substantial cost savings and to identify 
+potential beneficiaries who may not be actively engaged in farming.  
+ This project, also known as "Crop One Analytics" , was awarded the IMC Digital Technology Awards 2021.  
+ Technology Used - Tableau, Python,  Tableau Prep  
+ 
+ CM Dashboard  (Govt. of Odisha)  
+ The main objective of the project is to analyze various schemes implemented by the Government of 
+Odisha. The resulting dashboards will be made available for public viewing.  
+ I created eight dashboards using Tab leau, which include various types of calculations and parameters, as 
+well as sets, grouping, sheet swapping, and drill -down capabilities on tables up to three levels and maps.  
+ As this is a public dashboard. You can check this out by following this  
+link(htt ps://statedashboard.odisha.gov.in/)  
+ Technology Used - Tableau, MySQL  
+ 
+UT Dashboard (Govt. of Jammu)  
+ The Government of Jammu is running various schemes throughout the state. Their objective is to analyze 
+the performance of these schemes for each district and  make decisions accordingly.  
+ I worked closely with the client for a month on their onsite location in order to gain a deeper 
+understanding of their requirements.  
+ I collected data from them, created ETL flows, and we developed 32 dashboards with the capabil ity for 
+drill-down on maps and tables using Tableau.  
+ Utilized Python to fetch data from an API, and then seamlessly integrated this Python code into Tableau 
+Prep using Tabpy.  
+ Tech Used: Tableau, Python, Tableau Prep  
+ 
+ 
+ 
+ 
+  
+EDUCATION  
+Gandhi Institute for Technology                                                                                                      Bhubaneswar, India                                                                                                 
+Master  of Computer  Application  (MCA)                                                                                                2019 – 2021 
+ 
+Christ College                                                                                                                                            Cuttack, India  
+Bachelor in  Computer  Science                                                                                                                  2016 - 2019  
+ 
+ 
